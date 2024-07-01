@@ -6,6 +6,7 @@ The process of Future Retail's e-commerce operation, can be summarized as follow
 * The delivery process: Shipped -> In Transit -> Delivered/Cancelled. If a customer receives an order but decides to return it for some reason (specified in the "return reason"), the order status is updated to "Cancelled."
 ## Project objective and strategy 
 **Objective**: enhance business operations and profitability, optimize product categories based on profitability and customer preference, understand customer behavior to improve satisfaction and loyalty, evaluate sales team performance for training and motivation, and analyze order cancellations to improve service and increase customer retention.
+
 **Strategy**: The strategy involves creating five dashboard pages to monitor five facets of Future Retail:
 * Future Retail's sales activities: assessing overall profitability, efficiency of processes, and effectiveness of current strategies.
 * Product Category Analysis: inform inventory management, pricing strategies, and marketing efforts, helping to maximize sales and profits.
