@@ -13,3 +13,7 @@ The process of Future Retail's e-commerce operation, can be summarized as follow
 * Customer Analysis: Gain a deeper understanding of the customer base. This information can guide marketing strategies, and product development.
 * Sale agent Analysis: Assess the performance of individual salespeople. This can help in identifying training needs, adjusting sales targets, and implementing reward systems.
 * Cancelled Order Analysis: Understand the reasons behind order cancellations. This can provide insights into potential issues with the product, service, or delivery process. The ultimate goal is to reduce cancellation rates
+##
+1. Le Tran Khanh Phu
+2. Nguyen Khanh Nhan
+3. Doan Nam Thang
